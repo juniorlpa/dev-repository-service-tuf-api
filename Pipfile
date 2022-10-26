@@ -37,7 +37,7 @@ sphinxcontrib-qthelp = "*"
 sphinxcontrib-serializinghtml = "*"
 sphinxcontrib-plantuml = "*"
 sphinxcontrib-openapi = "*"
-mistune = "==0.8.4"
+mistune = "==2.0.4"
 myst-parser = "*"
 
 [requires]
